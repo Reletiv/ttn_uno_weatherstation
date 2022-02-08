@@ -10,3 +10,4 @@ This weather station sends Temperature, Humidity, and battery voltage to The Thi
 it uses a BME280 for the data and Arduino's internal reference for measuring battery voltage.
 
 dit is de zinvolle aanpassing die ik maak
+=======
