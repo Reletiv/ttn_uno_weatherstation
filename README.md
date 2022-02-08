@@ -1,4 +1,7 @@
 # weatherstation
+
+![image](https://user-images.githubusercontent.com/42270777/152969151-5a7a4cfd-df77-49c0-8983-f8cacffd62b2.png)
+
 Arduino LoRa weatherstation
 
 This project uses a The Things UNO to connect to The Things Network.
