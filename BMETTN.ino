@@ -86,7 +86,6 @@ void loop()
   ttn.sleep(2000000);    //sleep RN module in [ms]
   
   delay(100);
-
   
   LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
   LowPower.powerDown(SLEEP_8S, ADC_OFF, BOD_OFF);
